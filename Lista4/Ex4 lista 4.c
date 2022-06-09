@@ -1,5 +1,5 @@
-/*Ler do teclado 12 números inteiros e armazená-los em um vetor N. 
-Em seguida, copiar os elementos pares divisíveis por 3 para o vetor X e os ímpares divisíveis por 5 para o vetor Y.*/
+/*Ler do teclado 12 nÃºmeros inteiros e armazenÃ¡-los em um vetor N. 
+Em seguida, copiar os elementos pares divisÃ­veis por 3 para o vetor X e os Ã­mpares divisÃ­veis por 5 para o vetor Y.*/
 
 #include <stdio.h>
 #define MAX 12
