@@ -7,15 +7,9 @@ Em seguida, copiar os elementos pares divisíveis por 3 para o vetor X e os ímp
 int main(){
 	int n[MAX], x[MAX], y[MAX],i, ix, iy;
 	
-	//procedimento para carregar o vetor n
-	
 	for(i=0; i < MAX; i++){
 		printf("%i, ", &n[i]);
 	}
-	 	
-	//procedimento para separar os vetores de x e y
-	
-	
 	
 	for (i=0; i < MAX; i++){
 		if (n[i] % 2 == 0 && n[i] % 3 == 0){
@@ -27,11 +21,6 @@ int main(){
 		}
 	}
 
-	
-	
-	
-	//procedimento para escrever o conteudo do vetor N
-	
 	printf("Conteudo do vetor N: ");
 	for (i=0; i < MAX; i++){
 		printf("%i, ", n[i]);
