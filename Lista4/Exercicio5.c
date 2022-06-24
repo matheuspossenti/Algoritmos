@@ -16,6 +16,5 @@ int main(){
 
     for (i=TAM-1;i>=0;i--){
         printf("\nPessoa %i: Idade: %i | Altura: %i", i+1, idade[i], altura[i]);
-    }
-    
+    }   
 }
