@@ -1,9 +1,3 @@
-/*
-Faça um programa em C que leia a idade e a altura de 5 pessoas.
-Armazene cada informação no seu respectivo vetor. 
-Imprima a idade e a altura na ordem inversa a ordem lida.
-*/
-
 #include <stdio.h>
 #define TAM 5
 
