@@ -40,7 +40,6 @@ int main(){
     printf("Soma da Coluna 2: %d \n", col2);
     printf("Soma da Diagonal Principal: %d \n", diagP);
     printf("Soma da Diagonal Secundaria: %d \n", diagSec);
-
     
     return 0;
 }
