@@ -1,8 +1,7 @@
 #include <stdio.h>
 #define TAM 10
 
-int main()
-{
+int main(){
     int i, j;
     char respostas[TAM][TAM], gabarito[TAM];
     int resultado[TAM];
